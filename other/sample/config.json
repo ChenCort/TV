@@ -12,17 +12,12 @@
      {
     "key": "Missav",
     "name": "Missav",
+    "url": "./missav.json",
     "type": 3,
     "searchable": 0,
     "quickSearch": 0,
     "filterable": 0,
-    "api": "./Miss.py",
-    "ext": {
-      "site": "https://missav.ai",
-      "cfgo": "./cf-proxy-linux-arm64",
-      "plp": "",
-      "proxy": {}
-      }
+    "api": "./Miss.py"
     }
   
   ],
