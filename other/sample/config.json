@@ -22,6 +22,7 @@
       "cfgo": "./cf-proxy-linux-arm64",
       "plp": "",
       "proxy": {}
+      }
     }
   
   ],
